@@ -1,0 +1,390 @@
+3-1	"Argentina. Argentina.
+Argentina is a country in South America.
+
+charm. charm.
+Messi is a man of great charm.
+
+development. development.
+The product is still in the early stages of development.
+
+fist. fist.
+The man shook his fists at his neighbor.
+
+hunger. hunger.
+There are people dying from hunger every day.
+
+lost. lost.
+We got lost in the forest.
+
+parrot. parrot.
+Parrots are smart birds that can learn to say a few words.
+
+rob. rob.
+The man robbed the girl of her phone.
+
+stormy. stormy.
+It was a cold and stormy night.
+
+trace. trace.
+The police are trying to trace the call.
+"
+3-2	"ancient. ancient.
+I am an expert in ancient history.
+
+canyon. canyon.
+The view of the canyon is so amazing.
+
+degree. degree.
+To what degree are you interested in this program?
+
+feature. feature.
+The hotel's most attractive feature is the view of the sea.
+
+housekeeper. housekeeper.
+They hired a housekeeper to clean their house.
+
+lock. lock.
+Remember to lock the door.
+
+ox. ox.
+Can you tell an ox from a cow?
+
+resist. resist.
+He cannot resist buying new books.
+
+steam. steam.
+The bathroom was full of steam.
+
+trend. trend.
+The report shows a downward trend in population growth.
+"
+3-3	"badly. badly.
+I did badly on the test.
+
+collar. collar.
+The collar of this shirt is dirty.
+
+drill. drill.
+He drilled a hole in the wall.
+
+garage. garage.
+You can put the car in my garage.
+
+issue. issue.
+We should talk about this issue.
+
+mental. mental.
+Violent video games may cause mental health problems.
+
+plenty. plenty.
+Remember to drink plenty of water after doing exercise.
+
+separation. separation.
+After a long separation, they finally met each other.
+
+survivor. survivor.
+She was the only survivor of the fire.
+
+vivid. vivid.
+He gave a vivid description of his time in the summer camp.
+"
+3-4	"armed. armed.
+Luckily, the thief was not armed.
+
+cheek. cheek.
+The tears rolled down her cheeks.
+
+dinosaur. dinosaur.
+Dinosaurs died out about 66 million years ago.
+
+flashlight. flashlight.
+He shone the flashlight into the box.
+
+imbalance. imbalance.
+There is an imbalance between her work and life.
+
+luggage. luggage.
+Your luggage is overweight.
+
+passion. passion.
+Andy has a great passion for science.
+
+rocky. rocky.
+It's hard to grow plants in rocky soil.
+
+straw. straw.
+He drank the milk tea through a straw.
+
+trumpet. trumpet.
+The trumpet is a brass instrument.
+"
+3-5	"aware. aware.
+I was not aware that he had left.
+
+coal. coal.
+We should put more coal on the fire.
+
+downtown. downtown.
+The hotel is close to downtown.
+
+furthermore. furthermore.
+The food was good. Furthermore, it was cheap.
+
+instruction. instruction.
+You must follow the instructions when using this product.
+
+medium. medium.
+Cook the soup over medium heat for ten minutes.
+
+plastic. plastic.
+Please use this plastic bag again.
+
+security. security.
+The meeting was held under strict security.
+
+surround. surround.
+The movie star was surrounded by his fans.
+
+violet. violet.
+She has beautiful violet eyes.
+"
+3-6	"avoid. avoid.
+I feel like you are trying to avoid me!
+
+closet. closet.
+My closet is full of clothes.
+
+donkey. donkey.
+The donkey can carry heavy things.
+
+frozen. frozen.
+The lake is frozen.
+
+inner. inner.
+We can have a meeting in the inner room.
+
+mean. mean.
+It was mean of them not to let him express ideas.
+
+pill. pill.
+She takes a sleeping pill before sleep.
+
+scrub. scrub.
+He scrubbed the floor clean.
+
+sunset. sunset.
+We watched the sunset at the beach.
+
+vest. vest.
+Is this blue vest yours?
+"
+3-7	"afterward. afterward.
+Let's watch a movie first and eat afterward.
+
+bull. bull.
+We were chased by a bull.
+
+daytime. daytime.
+I feel sleepy in the daytime.
+
+fair. fair.
+I bought some nice plates at the fair.
+
+holy. holy.
+They regard the church as a holy place.
+
+lifetime. lifetime.
+Her book was not published in her lifetime.
+
+onto. onto.
+The cat jumped onto the table.
+
+regional. regional.
+He speaks English with a regional accent.
+
+squeeze. squeeze.
+She squeezed some lemon juice on the fish.
+
+ton. ton.
+They used ten tons of coal last winter.
+"
+3-8	"beneath. beneath.
+A cat was beneath the table.
+
+conclude. conclude.
+The report concluded that we should use fewer plastic bags.
+
+elbow. elbow.
+I banged my elbow on the closet.
+
+grasshopper. grasshopper.
+Grasshoppers can jump high.
+
+juicy. juicy.
+The meat is so juicy.
+
+monster. monster.
+The kid thinks there is a monster behind the closet.
+
+present. present.
+He presented the data to the manager.
+
+sincere. sincere.
+Please accept my sincere thanks.
+
+tap. tap.
+Who just tapped me on the shoulder?
+
+weekly. weekly.
+The manager has a weekly meeting with his team.
+"
+3-9	"almond. almond.
+Almond cake is my favorite food.
+
+cabin. cabin.
+We found a cabin in the woods.
+
+deepen. deepen.
+The experience deepened her love for dancing.
+
+faucet. faucet.
+Could you help me turn the faucet on?
+
+hopeless. hopeless.
+He was seriously ill and hopeless about his future.
+
+lively. lively.
+I think Taipei is a lively city.
+
+outer. outer.
+The outer walls of the castle were destroyed.
+
+represent. represent.
+My boss sent me to represent him in the meeting.
+
+state. state.
+Please state the reasons why you did that.
+
+tourism. tourism.
+Tourism is the main industry of this island.
+"
+3-10	"Malaysia. Malaysia.
+Malaysia is a country in Southeast Asia.
+
+aside. aside.
+He pushed the chair aside.
+
+chimney. chimney.
+Black smoke rose from the chimney.
+
+discover. discover.
+Christopher Columbus discovered America in 1492.
+
+follower. follower.
+The singer has over one million followers on Instagram.
+
+income. income.
+Hank has a high income.
+
+pea. pea.
+We still have a pack of frozen peas in the fridge.
+
+sausage. sausage.
+I had sausages and eggs for breakfast.
+
+stuck. stuck.
+The drawer is stuck. I can't open it.
+
+underwear. underwear.
+He only wears underwear when he is at home.
+"
+3-11	"award. award.
+This movie has won many awards.
+
+coach. coach.
+Charlie is a professional basketball coach.
+
+doughnut (donut). doughnut (donut).
+He bought some doughnuts for me.
+
+further. further.
+We should stop looking further into this matter.
+
+instead. instead.
+We have no black tea. Would you like green tea instead?
+
+medal. medal.
+He won his first Olympic gold medal in 2000.
+
+pineapple. pineapple.
+The pineapple juice tasted good.
+
+secretary. secretary.
+Nina works as a secretary.
+
+surface. surface.
+The surface of glass is smooth and even.
+
+violent. violent.
+The movie is too violent for children.
+"
+3-12	"bait. bait.
+We can use worms as bait.
+
+colorful. colorful.
+The bird has colorful feathers.
+
+drugstore. drugstore.
+I will go to the drugstore on my way home.
+
+general. general.
+The general died in the war.
+
+jam. jam.
+The room was jammed with many people.
+
+muscle. muscle.
+Working out can help you gain muscle.
+
+poet. poet.
+The poet has created many good poems.
+
+shame. shame.
+He felt no shame for his bad behavior.
+
+swear. swear.
+She wants her son to swear that he won't steal money again.
+
+volume. volume.
+Please turn the volume down.
+"
+3-13	"bomb. bomb.
+The bomb killed four soldiers.
+
+controller. controller.
+Mark is the new controller for marketing.
+
+encourage. encourage.
+My friend encouraged me to write a book.
+
+hairy. hairy.
+The man has a hairy chest.
+
+kid. kid.
+Are you kidding me?
+
+mess. mess.
+Our kitchen is a mess.
+
+program. program.
+I like this program very much.
+
+slave. slave.
+Don't treat me like a slave.
+
+tender. tender.
+Her voice was tender and loving.
+
+wisdom. wisdom.
+My grandfather is a person of great wisdom.
+"
