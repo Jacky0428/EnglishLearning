@@ -1,0 +1,14 @@
+[
+
+    { "index1": 1, "index2": 1, "index3": 1, "word": "cute", "ipa": "/kjut/", "pos": "adj.", "explain_tw": "可愛的", "sentence": "Your dog is so cute.", "sentence_tw": "你的狗真可愛。"} ,
+    { "index1": 1, "index2": 1, "index3": 2, "word": "dance", "ipa": "/dæns/", "pos": "v.__n.", "explain_tw": "跳舞__跳舞;舞蹈", "sentence": "Lynn loves singing and dancing.", "sentence_tw": "Lynn 喜歡唱歌和跳舞。"} ,
+    { "index1": 1, "index2": 1, "index3": 3, "word": "family", "ipa": "/ˈfæməli/", "pos": "n.", "explain_tw": "家庭,家人", "sentence": "My family will move to Canada next year.", "sentence_tw": "我們家明年會搬到加拿大。"} ,
+    { "index1": 1, "index2": 1, "index3": 4, "word": "happy", "ipa": "/ˈhæpi/", "pos": "adj.", "explain_tw": "快樂的", "sentence": "Are you happy with your life?", "sentence_tw": "你過得開心嗎？"} ,
+    { "index1": 1, "index2": 1, "index3": 5, "word": "hat", "ipa": "/hæt/", "pos": "n.", "explain_tw": "帽子", "sentence": "I bought a new hat.", "sentence_tw": "我買了一頂新帽子。"} ,
+    { "index1": 1, "index2": 1, "index3": 6, "word": "juice", "ipa": "/dʒus/", "pos": "n.", "explain_tw": "果汁", "sentence": "Don't add sugar to my juice.", "sentence_tw": "我的果汁不要加糖。"} ,
+    { "index1": 1, "index2": 1, "index3": 7, "word": "lion", "ipa": "/ˈlaɪən/", "pos": "n.", "explain_tw": "獅子", "sentence": "The lion is the king of beasts.", "sentence_tw": "獅子是萬獸之王。"} ,
+    { "index1": 1, "index2": 1, "index3": 8, "word": "red", "ipa": "/red/", "pos": "adj.__n.", "explain_tw": "紅色的__紅色", "sentence": "I don't have any red clothes.", "sentence_tw": "我沒有紅色的衣服。"} ,
+    { "index1": 1, "index2": 1, "index3": 9, "word": "six", "ipa": "/sɪks/", "pos": "det.__n.", "explain_tw": "六__六", "sentence": "My mom has six siblings.", "sentence_tw": "我媽有六個兄弟姐妹。"} ,
+    { "index1": 1, "index2": 1, "index3": 10, "word": "sky", "ipa": "/skaɪ/", "pos": "n.", "explain_tw": "天空", "sentence": "There's not a cloud in the sky.", "sentence_tw": "天空中沒有雲。"} 
+
+]
