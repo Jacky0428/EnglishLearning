@@ -1,0 +1,69 @@
+{
+	"title": {
+		"jp": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>",
+		"tw": "大學生活"
+	},
+	"articleSentence": [
+		{
+			"jp": "<ruby>大学<rt>だいがく</rt></ruby>には<span class=\"newWord\"><ruby>学食<rt>がくしょく</rt></ruby></span>があります。",
+			"tw": "大學裡有<span class=\"newWord\">學餐</span>。",
+			"mp3": "ymca-A=J2C29_Article01_01"
+		},
+		{
+			"jp": "<span class=\"newWord\"><ruby>学食<rt>がくしょく</rt></ruby></span>の<span class=\"newWord\">メニュー</span>はとても<ruby>多<rt>おお</rt></ruby>いです。",
+			"tw": "<span class=\"newWord\">學餐</span>的<span class=\"newWord\">菜單</span>很多樣化。",
+			"mp3": "ymca-A=J2C29_Article01_02"
+		},
+		{
+			"jp": "<span class=\"newWord\"><ruby>値段<rt>ねだん</rt></ruby></span>も安いので、<ruby>学生<rt>がくせい</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>があります。",
+			"tw": "<span class=\"newWord\">價格</span>也很便宜，因此很受學生歡迎。",
+			"mp3": "ymca-A=J2C29_Article01_03"
+		},
+		{
+			"jp": "でも、<ruby>私<rt>わたし</rt></ruby>は<ruby>時々<rt>ときどき</rt></ruby><span class=\"newWord\"><ruby>外食<rt>がいしょく</rt></ruby></span>をします。",
+			"tw": "不過，我有時候會去<span class=\"newWord\">外食</span>。",
+			"mp3": "ymca-A=J2C29_Article01_04"
+		},
+		{
+			"jp": "<span class=\"newWord\"><ruby>外食<rt>がいしょく</rt></ruby></span>は<ruby>便利<rt>べんり</rt></ruby>ですが、<span class=\"newWord\"><ruby>栄養<rt>えいよう</rt></ruby></span>の<span class=\"newWord\">バランス</span>を<ruby>考<rt>かんが</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+			"tw": "<span class=\"newWord\">外食</span>很方便，但考慮<span class=\"newWord\">營養</span>的<span class=\"newWord\">均衡</span>也很重要。",
+			"mp3": "ymca-A=J2C29_Article01_05"
+		},
+		{
+			"jp": "<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>は<span class=\"newWord\"><ruby>自炊<rt>じすい</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。",
+			"tw": "最近，我開始<span class=\"newWord\">自己煮飯</span>。",
+			"mp3": "ymca-A=J2C29_Article01_06"
+		},
+		{
+			"jp": "<ruby>家<rt>いえ</rt></ruby>で<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ると、<ruby>好<rt>す</rt></ruby>きな<span class=\"newWord\"><ruby>量<rt>りょう</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>めることができます。",
+			"tw": "在家裡做飯時，可以自己決定喜歡的<span class=\"newWord\">份量</span>。",
+			"mp3": "ymca-A=J2C29_Article01_07"
+		},
+		{
+			"jp": "そして、<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>使<rt>つか</rt></ruby>って<span class=\"newWord\"><ruby>緑<rt>みどり</rt></ruby></span>を<ruby>増<rt>ふ</rt></ruby>やします。",
+			"tw": "而且，可以多用蔬菜來增加<span class=\"newWord\">綠色食材</span>。",
+			"mp3": "ymca-A=J2C29_Article01_08"
+		},
+		{
+			"jp": "こうすると、<ruby>健康<rt>けんこう</rt></ruby>にもいいです。",
+			"tw": "這樣的話，對健康也很好。",
+			"mp3": "ymca-A=J2C29_Article01_09"
+		},
+		{
+			"jp": "<ruby>大学<rt>だいがく</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>で<span class=\"newWord\"><ruby>学食<rt>がくしょく</rt></ruby></span>、<span class=\"newWord\"><ruby>外食<rt>がいしょく</rt></ruby></span>、<span class=\"newWord\"><ruby>自炊<rt>じすい</rt></ruby></span>をうまく<ruby>使<rt>つか</rt></ruby>って、<ruby>楽<rt>たの</rt></ruby>しく<ruby>食事<rt>しょくじ</rt></ruby>をしています。",
+			"tw": "在大學生活中，我巧妙地結合了<span class=\"newWord\">學餐</span>、<span class=\"newWord\">外食</span>和<span class=\"newWord\">自己煮飯</span>，讓飲食變得愉快又健康。",
+			"mp3": "ymca-A=J2C29_Article01_10"
+		}
+	],
+	"words": [
+		{ "jp": "<ruby>緑<rt>みどり</rt></ruby>", "pos": "名詞", "tw": "綠色、綠意", "mp3": "" },
+		{ "jp": "<ruby>学食<rt>がくしょく</rt></ruby>", "pos": "名詞", "tw": "學生食堂", "mp3": "" },
+		{ "jp": "<ruby>値段<rt>ねだん</rt></ruby>", "pos": "名詞", "tw": "價錢", "mp3": "" },
+		{ "jp": "<ruby>量<rt>りょう</rt></ruby>", "pos": "名詞", "tw": "量", "mp3": "" },
+		{ "jp": "メニュー", "pos": "名詞", "tw": "菜單", "mp3": "" },
+		{ "jp": "<ruby>栄養<rt>えいよう</rt></ruby>", "pos": "名詞", "tw": "營養", "mp3": "" },
+		{ "jp": "バランス", "pos": "名詞", "tw": "平衡、均衡", "mp3": "" },
+		{ "jp": "<ruby>外食<rt>がいしょく</rt></ruby>", "pos": "名詞", "tw": "外食、在外面吃飯", "mp3": "" },
+		{ "jp": "<ruby>自炊<rt>じすい</rt></ruby>", "pos": "名詞", "tw": "自己做飯", "mp3": "" }
+	]
+}
