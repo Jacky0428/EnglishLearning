@@ -1,0 +1,76 @@
+{
+	"title": {
+		"jp": "<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>",
+		"tw": "新進員工的生活"
+	},
+	"articleSentence": [
+		{
+			"jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<span class=\"newWord\"><ruby>就職<rt>しゅうしょく</rt></ruby></span>しました。",
+			"tw": "我今年進入了一家公司<span class=\"newWord\">就職</span>。",
+			"mp3": "ymca-A=J2C29_Article02_01"
+		},
+		{
+			"jp": "<ruby>私<rt>わたし</rt></ruby>は<span class=\"newWord\"><ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby></span>です。",
+			"tw": "我是<span class=\"newWord\">新進員工</span>。",
+			"mp3": "ymca-A=J2C29_Article02_02"
+		},
+		{
+			"jp": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"newWord\"><ruby>研修<rt>けんしゅう</rt></ruby></span>に<ruby>参加<rt>さんか</rt></ruby>しました。",
+			"tw": "一開始參加了公司的<span class=\"newWord\">研修</span>。",
+			"mp3": "ymca-A=J2C29_Article02_03"
+		},
+		{
+			"jp": "そこで、<ruby>仕事<rt>しごと</rt></ruby>の<span class=\"newWord\">システム</span>や<ruby>会社<rt>かいしゃ</rt></ruby>の<span class=\"newWord\"><ruby>専門<rt>せんもん</rt></ruby></span>を<ruby>学<rt>まな</rt></ruby>びました。",
+			"tw": "在那裡，我學到了工作的<span class=\"newWord\">系統</span>和公司的<span class=\"newWord\">專業</span>。",
+			"mp3": "ymca-A=J2C29_Article02_04"
+		},
+		{
+			"jp": "<ruby>私<rt>わたし</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<span class=\"newWord\">フレックスタイム</span>を<ruby>採用<rt>さいよう</rt></ruby>しています。",
+			"tw": "我的公司採用了<span class=\"newWord\">彈性工時</span>。",
+			"mp3": "ymca-A=J2C29_Article02_05"
+		},
+		{
+			"jp": "だから、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>時間<rt>じかん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めて<ruby>働<rt>はたら</rt></ruby>けます。",
+			"tw": "所以我可以自己決定工作的時間。",
+			"mp3": "ymca-A=J2C29_Article02_06"
+		},
+		{
+			"jp": "でも、<ruby>仕事<rt>しごと</rt></ruby>には<span class=\"newWord\"><ruby>責任<rt>せきにん</rt></ruby></span>があります。",
+			"tw": "但是，工作中有<span class=\"newWord\">責任</span>。",
+			"mp3": "ymca-A=J2C29_Article02_07"
+		},
+		{
+			"jp": "<ruby>私<rt>わたし</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><span class=\"newWord\">メモ</span>を<ruby>取<rt>と</rt></ruby>って、<ruby>重要<rt>じゅうよう</rt></ruby>なことを<ruby>忘<rt>わす</rt></ruby>れないようにしています。",
+			"tw": "我每天都會做<span class=\"newWord\">筆記</span>，避免忘記重要的事情。",
+			"mp3": "ymca-A=J2C29_Article02_08"
+		},
+		{
+			"jp": "<ruby>先日<rt>せんじつ</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>は<span class=\"newWord\"><ruby>広告<rt>こうこく</rt></ruby></span><ruby>部門<rt>ぶもん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span class=\"newWord\"><ruby>支店<rt>してん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。",
+			"tw": "前幾天，公司在<span class=\"newWord\">廣告</span>部門新設了一家<span class=\"newWord\">分店</span>。",
+			"mp3": "ymca-A=J2C29_Article02_09"
+		},
+		{
+			"jp": "<ruby>今<rt>いま</rt></ruby>、そこで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>を<span class=\"newWord\"><ruby>募集<rt>ぼしゅう</rt></ruby>する</span>しています。",
+			"tw": "現在正在<span class=\"newWord\">募集</span>在那裡工作的員工。",
+			"mp3": "ymca-A=J2C29_Article02_10"
+		},
+		{
+			"jp": "<ruby>私<rt>わたし</rt></ruby>も<ruby>将来<rt>しょうらい</rt></ruby>、このような<ruby>仕事<rt>しごと</rt></ruby>に<ruby>チャレンジ</rt></ruby>したいです。",
+			"tw": "我希望將來能挑戰這樣的工作。",
+			"mp3": "ymca-A=J2C29_Article02_11"
+		}
+	],
+	"words": [
+		{ "jp": "<ruby>就職<rt>しゅうしょく</rt></ruby>", "pos": "名詞", "tw": "就職", "mp3": "ymca-J2C29-W13=就職_就職" },
+		{ "jp": "<ruby>広告<rt>こうこく</rt></ruby>", "pos": "名詞", "tw": "廣告", "mp3": "ymca-J2C29-W14=広告_廣告" },
+		{ "jp": "<ruby>支店<rt>してん</rt></ruby>", "pos": "名詞", "tw": "分店", "mp3": "ymca-J2C29-W15=支店_分店" },
+		{ "jp": "システム", "pos": "名詞", "tw": "系統、體系", "mp3": "ymca-J2C29-W16=システム_系統、體系" },
+		{ "jp": "<ruby>新入社員<rt>しんにゅうしゃいん</rt></ruby>", "pos": "名詞", "tw": "新進員工", "mp3": "ymca-J2C29-W19=新入社員_新進員工" },
+		{ "jp": "<ruby>専門<rt>せんもん</rt></ruby>", "pos": "名詞", "tw": "專業", "mp3": "ymca-J2C29-W20=専門_專業" },
+		{ "jp": "<ruby>研修<rt>けんしゅう</rt></ruby>", "pos": "名詞", "tw": "進修、研修", "mp3": "ymca-J2C29-W21=研修_進修、研修" },
+		{ "jp": "フレックスタイム", "pos": "名詞", "tw": "彈性工時", "mp3": "ymca-J2C29-W22=フレックスタイム_彈性工時" },
+		{ "jp": "<ruby>責任<rt>せきにん</rt></ruby>", "pos": "名詞", "tw": "責任", "mp3": "ymca-J2C29-W23=責任_責任" },
+		{ "jp": "<ruby>募集<rt>ぼしゅう</rt></ruby>する", "pos": "動詞", "tw": "募集", "mp3": "ymca-J2C29-W24=営業する_營業" },
+		{ "jp": "メモ", "pos": "名詞", "tw": "筆記、備忘錄", "mp3": "ymca-J2C29-W08=メモ_筆記、備忘錄" }
+	]
+}
