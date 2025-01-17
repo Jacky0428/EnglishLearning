@@ -1,0 +1,136 @@
+{
+  "title": {
+    "jp": "<ruby>都会<rt>とかい</rt></ruby>と<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>",
+    "tw": "城市與鄉下的生活"
+  },
+  "articleSentence": [
+    {
+      "jp": "私は<ruby>都会<rt>とかい</rt></ruby>に住んでいます。",
+      "tw": "我住在<ruby>城市<rt>城市</rt></ruby>。",
+      "mp3": "ymca-A=J2C29_Article03_01"
+    },
+    {
+      "jp": "でも、夏休みにはよく<ruby>田舎<rt>いなか</rt></ruby>の祖父母の家に行きます。",
+      "tw": "但是，暑假時我經常去<ruby>鄉下<rt>鄉下</rt></ruby>的祖父母家。",
+      "mp3": "ymca-A=J2C29_Article03_02"
+    },
+    {
+      "jp": "祖父母は私を家に<span class=\"newWord\"><ruby>泊める<rt>とめる</rt></ruby></span>くれます。",
+      "tw": "祖父母會讓我在家<span class=\"newWord\">留宿</span>。",
+      "mp3": "ymca-A=J2C29_Article03_03"
+    },
+    {
+      "jp": "朝は一緒に<span class=\"newWord\"><ruby>体操<rt>たいそう</rt></ruby></span>して、健康的な時間を過ごします。",
+      "tw": "早上我們一起<span class=\"newWord\">做體操</span>，度過健康的時光。",
+      "mp3": "ymca-A=J2C29_Article03_04"
+    },
+    {
+      "jp": "私の会社は新しい製品を<span class=\"newWord\"><ruby>開発<rt>かいはつ</rt></ruby></span>しています。",
+      "tw": "我的公司正在<span class=\"newWord\">研發</span>一款新產品。",
+      "mp3": "ymca-A=J2C29_Article03_05"
+    },
+    {
+      "jp": "この製品を多くの人に知ってもらうために、広告を新聞に<span class=\"newWord\"><ruby>出す<rt>だす</rt></ruby></span>ました。",
+      "tw": "為了讓更多人知道這款產品，我們將廣告<span class=\"newWord\">刊登</span>在了報紙上。",
+      "mp3": "ymca-A=J2C29_Article03_06"
+    },
+    {
+      "jp": "さらに、全国でこの製品を<span class=\"newWord\"><ruby>営業<rt>えいぎょう</rt></ruby></span>する計画も進んでいます。",
+      "tw": "此外，還計劃在全國範圍內進行產品的<span class=\"newWord\">營業</span>。",
+      "mp3": "ymca-A=J2C29_Article03_07"
+    },
+    {
+      "jp": "プロジェクトが成功すると<span class=\"newWord\"><ruby>決まる<rt>きまる</rt></ruby></span>とき、みんなで喜びました。",
+      "tw": "當這個專案被<span class=\"newWord\">確定</span>成功時，大家都非常高興。",
+      "mp3": "ymca-A=J2C29_Article03_08"
+    },
+    {
+      "jp": "先日、友達が別の都市に<span class=\"newWord\"><ruby>転勤<rt>てんきん</rt></ruby></span>しました。",
+      "tw": "前幾天，我的朋友<span class=\"newWord\">調動工作</span>到了另一個城市。",
+      "mp3": "ymca-A=J2C29_Article03_09"
+    },
+    {
+      "jp": "彼は新しい環境で生活を<span class=\"newWord\"><ruby>変える<rt>かえる</rt></ruby></span>たいと言っていました。",
+      "tw": "他說他想在新的環境中<span class=\"newWord\">改變</span>自己的生活。",
+      "mp3": "ymca-A=J2C29_Article03_10"
+    },
+    {
+      "jp": "私は、都会と<span class=\"newWord\"><ruby>田舎<rt>いなか</rt></ruby></span>の両方で生活を経験して、自分の生活をもっと楽しくしたいと思います。",
+      "tw": "我希望自己也能在城市與<span class=\"newWord\">鄉下</span>之間找到平衡，讓生活更加有趣。",
+      "mp3": "ymca-A=J2C29_Article03_11"
+    },
+    {
+      "jp": "毎日忙しいですが、大切なことに<span class=\"newWord\"><ruby>気がつく<rt>きがつく</rt></ruby></span>、充実した日々を送りたいです。",
+      "tw": "雖然每天都很忙，但我認為能<span class=\"newWord\">察覺</span>到重要的事情，並過得充實非常重要。",
+      "mp3": "ymca-A=J2C29_Article03_12"
+    }
+  ],
+  "words": [
+    {
+      "jp": "<ruby>都会<rt>とかい</rt></ruby>",
+      "pos": "名詞",
+      "tw": "城市",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>田舎<rt>いなか</rt></ruby>",
+      "pos": "名詞",
+      "tw": "鄉下",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>泊める<rt>とめる</rt></ruby>",
+      "pos": "動詞",
+      "tw": "留宿、使…住宿",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>体操<rt>たいそう</rt></ruby>",
+      "pos": "名詞/動詞",
+      "tw": "做體操",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>決まる<rt>きまる</rt></ruby>",
+      "pos": "動詞",
+      "tw": "決定、定下來",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>気がつく<rt>きがつく</rt></ruby>",
+      "pos": "動詞",
+      "tw": "注意到、察覺",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>出す<rt>だす</rt></ruby>",
+      "pos": "動詞",
+      "tw": "刊登（報紙等+に）、（廣告等+を）",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>開発<rt>かいはつ</rt></ruby>",
+      "pos": "名詞/動詞",
+      "tw": "研發",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>転勤<rt>てんきん</rt></ruby>",
+      "pos": "名詞/動詞",
+      "tw": "調動工作",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>変える<rt>かえる</rt></ruby>",
+      "pos": "動詞",
+      "tw": "改變、變動",
+      "mp3": ""
+    },
+    {
+      "jp": "<ruby>営業<rt>えいぎょう</rt></ruby>",
+      "pos": "名詞",
+      "tw": "營業",
+      "mp3": ""
+    }
+  ]
+}
