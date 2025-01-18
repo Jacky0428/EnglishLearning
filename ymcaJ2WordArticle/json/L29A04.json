@@ -1,136 +1,120 @@
 {
   "title": {
-    "jp": "<ruby>都会<rt>とかい</rt></ruby>と<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>",
-    "tw": "城市與鄉下的生活"
+    "jp": "<ruby>私<rt>わたし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>",
+    "tw": "我的朋友們"
   },
   "articleSentence": [
     {
-      "jp": "私は<ruby>都会<rt>とかい</rt></ruby>に住んでいます。",
-      "tw": "我住在<ruby>城市<rt>城市</rt></ruby>。",
-      "mp3": "ymca-A=J2C29_Article03_01"
+      "jp": "<ruby>私<rt>わたし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>は<span class=\"newWord\"><ruby>明<rt>あか</rt></ruby>るい</span><ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "tw": "我的朋友們大多是<span class=\"newWord\">開朗的</span>人。",
+      "mp3": "ymca-A=J2C29_Article04_01"
     },
     {
-      "jp": "でも、夏休みにはよく<ruby>田舎<rt>いなか</rt></ruby>の祖父母の家に行きます。",
-      "tw": "但是，暑假時我經常去<ruby>鄉下<rt>鄉下</rt></ruby>的祖父母家。",
-      "mp3": "ymca-A=J2C29_Article03_02"
+      "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>はとても<span class=\"newWord\"><ruby>我慢強<rt>がまんづよ</rt></ruby>い</span>です。",
+      "tw": "她非常有<span class=\"newWord\">忍耐力</span>。",
+      "mp3": "ymca-A=J2C29_Article04_02"
     },
     {
-      "jp": "祖父母は私を家に<span class=\"newWord\"><ruby>泊める<rt>とめる</rt></ruby></span>くれます。",
-      "tw": "祖父母會讓我在家<span class=\"newWord\">留宿</span>。",
-      "mp3": "ymca-A=J2C29_Article03_03"
+      "jp": "<ruby>仕事<rt>しごと</rt></ruby>は<span class=\"newWord\"><ruby>一生懸命<rt>いっしょうけんめい</rt></ruby></span>しています。",
+      "tw": "工作非常<span class=\"newWord\">努力</span>。",
+      "mp3": "ymca-A=J2C29_Article04_03"
     },
     {
-      "jp": "朝は一緒に<span class=\"newWord\"><ruby>体操<rt>たいそう</rt></ruby></span>して、健康的な時間を過ごします。",
-      "tw": "早上我們一起<span class=\"newWord\">做體操</span>，度過健康的時光。",
-      "mp3": "ymca-A=J2C29_Article03_04"
+      "jp": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>住<rt>す</rt></ruby>んでいる<ruby>町<rt>まち</rt></ruby>は<ruby>自然<rt>しぜん</rt></ruby>が<span class=\"newWord\"><ruby>豊富<rt>ほうふ</rt></ruby></span>で、とてもいい<ruby>所<rt>ところ</rt></ruby>です。",
+      "tw": "她住的城鎮自然資源<span class=\"newWord\">豐富</span>，是非常好的地方。",
+      "mp3": "ymca-A=J2C29_Article04_04"
     },
     {
-      "jp": "私の会社は新しい製品を<span class=\"newWord\"><ruby>開発<rt>かいはつ</rt></ruby></span>しています。",
-      "tw": "我的公司正在<span class=\"newWord\">研發</span>一款新產品。",
-      "mp3": "ymca-A=J2C29_Article03_05"
+      "jp": "<ruby>部屋<rt>へや</rt></ruby>もいつも<span class=\"newWord\"><ruby>きれい好<rt>ず</rt></ruby>き</span>です。",
+      "tw": "房間也總是打掃得<span class=\"newWord\">乾乾淨淨</span>。",
+      "mp3": "ymca-A=J2C29_Article04_05"
     },
     {
-      "jp": "この製品を多くの人に知ってもらうために、広告を新聞に<span class=\"newWord\"><ruby>出す<rt>だす</rt></ruby></span>ました。",
-      "tw": "為了讓更多人知道這款產品，我們將廣告<span class=\"newWord\">刊登</span>在了報紙上。",
-      "mp3": "ymca-A=J2C29_Article03_06"
+      "jp": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<span class=\"newWord\"><ruby>活発<rt>かっぱつ</rt></ruby>な</span><ruby>子供<rt>こども</rt></ruby>でした。",
+      "tw": "小時候是個<span class=\"newWord\">活潑的</span>孩子。",
+      "mp3": "ymca-A=J2C29_Article04_06"
     },
     {
-      "jp": "さらに、全国でこの製品を<span class=\"newWord\"><ruby>営業<rt>えいぎょう</rt></ruby></span>する計画も進んでいます。",
-      "tw": "此外，還計劃在全國範圍內進行產品的<span class=\"newWord\">營業</span>。",
-      "mp3": "ymca-A=J2C29_Article03_07"
+      "jp": "この<ruby>町<rt>まち</rt></ruby>は<span class=\"newWord\"><ruby>安全<rt>あんぜん</rt></ruby>な</span>ので、<ruby>夜<rt>よる</rt></ruby>でも<ruby>安心<rt>あんしん</rt></ruby>です。",
+      "tw": "這個城鎮很<span class=\"newWord\">安全</span>，所以晚上也很安心。",
+      "mp3": "ymca-A=J2C29_Article04_07"
     },
     {
-      "jp": "プロジェクトが成功すると<span class=\"newWord\"><ruby>決まる<rt>きまる</rt></ruby></span>とき、みんなで喜びました。",
-      "tw": "當這個專案被<span class=\"newWord\">確定</span>成功時，大家都非常高興。",
-      "mp3": "ymca-A=J2C29_Article03_08"
+      "jp": "<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は、<span class=\"newWord\"><ruby>自由<rt>じゆう</rt></ruby>な</span><ruby>時間<rt>じかん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。",
+      "tw": "大學生的時候，有很多<span class=\"newWord\">自由的</span>時間。",
+      "mp3": "ymca-A=J2C29_Article04_08"
     },
     {
-      "jp": "先日、友達が別の都市に<span class=\"newWord\"><ruby>転勤<rt>てんきん</rt></ruby></span>しました。",
-      "tw": "前幾天，我的朋友<span class=\"newWord\">調動工作</span>到了另一個城市。",
-      "mp3": "ymca-A=J2C29_Article03_09"
+      "jp": "<ruby>最近<rt>さいきん</rt></ruby>、<span class=\"newWord\"><ruby>急<rt>きゅう</rt></ruby>な</span><ruby>仕事<rt>しごと</rt></ruby>が<ruby>入<rt>はい</rt></ruby>りました。",
+      "tw": "最近，進來了<span class=\"newWord\">突然的</span>工作。",
+      "mp3": "ymca-A=J2C29_Article04_09"
     },
-    {
-      "jp": "彼は新しい環境で生活を<span class=\"newWord\"><ruby>変える<rt>かえる</rt></ruby></span>たいと言っていました。",
-      "tw": "他說他想在新的環境中<span class=\"newWord\">改變</span>自己的生活。",
-      "mp3": "ymca-A=J2C29_Article03_10"
-    },
-    {
-      "jp": "私は、都会と<span class=\"newWord\"><ruby>田舎<rt>いなか</rt></ruby></span>の両方で生活を経験して、自分の生活をもっと楽しくしたいと思います。",
-      "tw": "我希望自己也能在城市與<span class=\"newWord\">鄉下</span>之間找到平衡，讓生活更加有趣。",
-      "mp3": "ymca-A=J2C29_Article03_11"
-    },
-    {
-      "jp": "毎日忙しいですが、大切なことに<span class=\"newWord\"><ruby>気がつく<rt>きがつく</rt></ruby></span>、充実した日々を送りたいです。",
-      "tw": "雖然每天都很忙，但我認為能<span class=\"newWord\">察覺</span>到重要的事情，並過得充實非常重要。",
-      "mp3": "ymca-A=J2C29_Article03_12"
+        {
+      "jp": "<ruby>日本語<rt>にほんご</rt></ruby>は<span class=\"newWord\">ずいぶん</span><ruby>上手<rt>じょうず</rt></ruby>になりました。",
+      "tw": "日語<span class=\"newWord\">相當</span>進步了。",
+      "mp3": "ymca-A=J2C29_Article04_10"
     }
   ],
   "words": [
     {
-      "jp": "<ruby>都会<rt>とかい</rt></ruby>",
-      "pos": "名詞",
-      "tw": "城市",
-      "mp3": ""
+      "jp": "<ruby>明<rt>あか</rt></ruby>るい",
+      "pos": "形容詞",
+      "tw": "爽朗的、開朗的",
+      "mp3": "ymca-J2C29-W34=明るい_爽朗的、開朗的"
     },
     {
-      "jp": "<ruby>田舎<rt>いなか</rt></ruby>",
-      "pos": "名詞",
-      "tw": "鄉下",
-      "mp3": ""
+      "jp": "<ruby>我慢強<rt>がまんづよ</rt></ruby>い",
+      "pos": "形容詞",
+      "tw": "忍耐力強的",
+      "mp3": "ymca-J2C29-W35=我慢強い_忍耐力強的"
     },
     {
-      "jp": "<ruby>泊める<rt>とめる</rt></ruby>",
-      "pos": "動詞",
-      "tw": "留宿、使…住宿",
-      "mp3": ""
+      "jp": "<ruby>豊富<rt>ほうふ</rt></ruby>な",
+      "pos": "形容動詞",
+      "tw": "豐富的",
+      "mp3": "ymca-J2C29-W36=豊富な_豐富的"
     },
     {
-      "jp": "<ruby>体操<rt>たいそう</rt></ruby>",
-      "pos": "名詞/動詞",
-      "tw": "做體操",
-      "mp3": ""
+      "jp": "きれい<ruby>好<rt>ず</rt></ruby>きな",
+      "pos": "形容動詞",
+      "tw": "愛乾淨的",
+      "mp3": "ymca-J2C29-W37=きれい好きな_愛乾淨的"
     },
     {
-      "jp": "<ruby>決まる<rt>きまる</rt></ruby>",
-      "pos": "動詞",
-      "tw": "決定、定下來",
-      "mp3": ""
+      "jp": "<ruby>活発<rt>かっぱつ</rt></ruby>な",
+      "pos": "形容動詞",
+      "tw": "活潑的",
+      "mp3": "ymca-J2C29-W38=活発な_活潑的"
     },
     {
-      "jp": "<ruby>気がつく<rt>きがつく</rt></ruby>",
-      "pos": "動詞",
-      "tw": "注意到、察覺",
-      "mp3": ""
+      "jp": "<ruby>安全<rt>あんぜん</rt></ruby>な",
+      "pos": "形容動詞",
+      "tw": "安全的",
+      "mp3": "ymca-J2C29-W39=安全な_安全的"
     },
     {
-      "jp": "<ruby>出す<rt>だす</rt></ruby>",
-      "pos": "動詞",
-      "tw": "刊登（報紙等+に）、（廣告等+を）",
-      "mp3": ""
+      "jp": "<ruby>自由<rt>じゆう</rt></ruby>な",
+      "pos": "形容動詞",
+      "tw": "自由的、隨意的、不受拘束的",
+      "mp3": "ymca-J2C29-W40=自由な_自由的、隨意的、不受拘束的"
     },
     {
-      "jp": "<ruby>開発<rt>かいはつ</rt></ruby>",
-      "pos": "名詞/動詞",
-      "tw": "研發",
-      "mp3": ""
+      "jp": "<ruby>急<rt>きゅう</rt></ruby>な",
+      "pos": "形容動詞",
+      "tw": "突然的",
+      "mp3": "ymca-J2C29-W41=急な_突然的"
     },
     {
-      "jp": "<ruby>転勤<rt>てんきん</rt></ruby>",
-      "pos": "名詞/動詞",
-      "tw": "調動工作",
-      "mp3": ""
+      "jp": "<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>",
+      "pos": "副詞",
+      "tw": "努力地、拼命地",
+      "mp3": "ymca-J2C29-W42=一生懸命_努力地、拼命地"
     },
     {
-      "jp": "<ruby>変える<rt>かえる</rt></ruby>",
-      "pos": "動詞",
-      "tw": "改變、變動",
-      "mp3": ""
-    },
-    {
-      "jp": "<ruby>営業<rt>えいぎょう</rt></ruby>",
-      "pos": "名詞",
-      "tw": "營業",
-      "mp3": ""
+      "jp": "ずいぶん",
+      "pos": "副詞",
+      "tw": "相當、非常",
+      "mp3": "ymca-J2C29-W43=ずいぶん_相當、非常"
     }
   ]
 }
