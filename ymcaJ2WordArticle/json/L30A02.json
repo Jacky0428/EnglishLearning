@@ -1,0 +1,92 @@
+{
+  "title": {
+    "jp": "<ruby>動物<rt>どうぶつ</rt></ruby>と<ruby>自然<rt>しぜん</rt></ruby>",
+    "tw": "動物與自然"
+  },
+  "articleSentence": [
+    {
+      "jp": "<ruby>庭<rt>にわ</rt></ruby>に<span class=\"newWord\"><ruby>犬小屋<rt>いぬごや</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。",
+      "tw": "我在庭院裡做了一個<span class=\"newWord\">狗窩</span>。",
+      "mp3": "ymca-A=J2C30_Article02_01"
+    },
+    {
+      "jp": "<span class=\"newWord\">うさぎ</span>も<ruby>飼<rt>か</rt></ruby>っています。",
+      "tw": "我也養了<span class=\"newWord\">兔子</span>。",
+      "mp3": "ymca-A=J2C30_Article02_02"
+    },
+    {
+      "jp": "<span class=\"newWord\">うさぎ</span>は<ruby>草<rt>くさ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるのが<ruby>好<rt>す</rt></ruby>きです。",
+      "tw": "<span class=\"newWord\">兔子</span>喜歡吃草。",
+      "mp3": "ymca-A=J2C30_Article02_03"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>砂漠<rt>さばく</rt></ruby></span>はとても<ruby>乾燥<rt>かんそう</rt></ruby>しています。",
+      "tw": "<span class=\"newWord\">沙漠</span>非常乾燥。",
+      "mp3": "ymca-A=J2C30_Article02_04"
+    },
+    {
+      "jp": "<ruby>昔<rt>むかし</rt></ruby>、<span class=\"newWord\"><ruby>砂漠<rt>さばく</rt></ruby></span>で<span class=\"newWord\"><ruby>井戸<rt>いど</rt></ruby></span>を<span class=\"newWord\"><ruby>掘<rt>ほ</rt></ruby>る</span>ことはとても<ruby>大切<rt>たいせつ</rt></ruby>でした。",
+      "tw": "以前，在<span class=\"newWord\">沙漠</span>裡<span class=\"newWord\">挖井</span>是非常重要的事。",
+      "mp3": "ymca-A=J2C30_Article02_05"
+    },
+    {
+      "jp": "<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>水<rt>みず</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めていました。",
+      "tw": "人們為了尋找水源。",
+      "mp3": "ymca-A=J2C30_Article02_06"
+    },
+    {
+      "jp": "<ruby>春<rt>はる</rt></ruby>になったら、<ruby>庭<rt>にわ</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<span class=\"newWord\"><ruby>植<rt>う</rt></ruby>える</span>つもりです。",
+      "tw": "春天來了的話，我打算在庭院裡<span class=\"newWord\">種植</span>花。",
+      "mp3": "ymca-A=J2C30_Article02_07"
+    },
+    {
+      "jp": "<ruby>将来<rt>しょうらい</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>が<ruby>見<rt>み</rt></ruby>える<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<span class=\"newWord\"><ruby>建<rt>た</rt></ruby>てる</span>のが<ruby>夢<rt>ゆめ</rt></ruby>です。",
+      "tw": "將來，我的夢想是在看得到海的地方<span class=\"newWord\">興建</span>房子。",
+      "mp3": "ymca-A=J2C30_Article02_08"
+    }
+  ],
+  "words": [
+    {
+      "jp": "<ruby>犬小屋<rt>いぬごや</rt></ruby>",
+      "pos": "名詞",
+      "tw": "狗窩",
+      "mp3": "ymca-J2C30-W02=犬小屋_狗窩"
+    },
+    {
+      "jp": "うさぎ",
+      "pos": "名詞",
+      "tw": "兔子",
+      "mp3": "ymca-J2C30-W03=うさぎ_兔子"
+    },
+    {
+      "jp": "<ruby>砂漠<rt>さばく</rt></ruby>",
+      "pos": "名詞",
+      "tw": "沙漠",
+      "mp3": "ymca-J2C30-W11=砂漠_沙漠"
+    },
+    {
+      "jp": "<ruby>井戸<rt>いど</rt></ruby>",
+      "pos": "名詞",
+      "tw": "水井",
+      "mp3": "ymca-J2C30-W12=井戸_水井"
+    },
+    {
+      "jp": "<ruby>植<rt>う</rt></ruby>える",
+      "pos": "動詞",
+      "tw": "種植",
+      "mp3": "ymca-J2C30-W19=植える_種植"
+    },
+    {
+      "jp": "<ruby>掘<rt>ほ</rt></ruby>る",
+      "pos": "動詞",
+      "tw": "挖",
+      "mp3": "ymca-J2C30-W20=掘る_挖"
+    },
+    {
+      "jp": "<ruby>建<rt>た</rt></ruby>てる",
+      "pos": "動詞",
+      "tw": "興建、建造",
+      "mp3": "ymca-J2C30-W21=建てる_興建、建造"
+    }
+  ]
+}

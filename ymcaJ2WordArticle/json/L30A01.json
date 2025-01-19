@@ -1,0 +1,104 @@
+{
+  "title": {
+    "jp": "<ruby>未来<rt>みらい</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>",
+    "tw": "未來的計畫"
+  },
+  "articleSentence": [
+    {
+      "jp": "<ruby>来年<rt>らいねん</rt></ruby>の<span class=\"newWord\"><ruby>予定<rt>よてい</rt></ruby></span>はもう<ruby>大体<rt>だいたい</rt></ruby><ruby>決<rt>き</rt></ruby>まっています。",
+      "tw": "明年的<span class=\"newWord\">預定</span>大致上都決定好了。",
+      "mp3": "ymca-A=J2C30_Article01_01"
+    },
+    {
+      "jp": "<ruby>仕事<rt>しごと</rt></ruby>の<span class=\"newWord\"><ruby>関係<rt>かんけい</rt></ruby></span>で、<ruby>色<rt>いろ</rt></ruby><ruby>々<rt>いろ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>と<ruby>会<rt>あ</rt></ruby>います。",
+      "tw": "因為工作的<span class=\"newWord\">關係</span>，會和各式各樣的人見面。",
+      "mp3": "ymca-A=J2C30_Article01_02"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>人間関係<rt>にんげんかんけい</rt></ruby></span>はとても<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。",
+      "tw": "我認為<span class=\"newWord\">人際關係</span>非常重要。",
+      "mp3": "ymca-A=J2C30_Article01_03"
+    },
+    {
+      "jp": "<ruby>毎日<rt>まいにち</rt></ruby>、きちんと<span class=\"newWord\">あいさつ</span>をすることを<ruby>心<rt>こころ</rt></ruby>がけています。",
+      "tw": "每天都注意要好好地<span class=\"newWord\">問候</span>。",
+      "mp3": "ymca-A=J2C30_Article01_04"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>自分<rt>じぶん</rt></ruby></span>の<ruby>将来<rt>しょうらい</rt></ruby>について、よく<ruby>考<rt>かんが</rt></ruby>えます。",
+      "tw": "我常常思考關於<span class=\"newWord\">自己</span>的未來。",
+      "mp3": "ymca-A=J2C30_Article01_05"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>卒業後<rt>そつぎょうご</rt></ruby></span>、<ruby>海外<rt>かいがい</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くことを<ruby>考<rt>かんが</rt></ruby>えています。",
+      "tw": "<span class=\"newWord\">畢業後</span>，我考慮在海外工作。",
+      "mp3": "ymca-A=J2C30_Article01_06"
+    },
+    {
+      "jp": "いつか、<ruby>好<rt>す</rt></ruby>きな<ruby>人<rt>ひと</rt></ruby>に<span class=\"newWord\"><ruby>告白<rt>こくはく</rt></ruby>する</span>ことができたらいいなと<ruby>思<rt>おも</rt></ruby>っています。",
+      "tw": "如果有一天能向喜歡的人<span class=\"newWord\">告白</span>就好了。",
+      "mp3": "ymca-A=J2C30_Article01_07"
+    },
+    {
+      "jp": "<ruby>夢<rt>ゆめ</rt></ruby>を<span class=\"newWord\"><ruby>実現<rt>じつげん</rt></ruby>する</span><span class=\"newWord\">ために</span>、<ruby>今<rt>いま</rt></ruby>、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+      "tw": "為了<span class=\"newWord\">實現</span>夢想，我現在正<span class=\"newWord\">為了</span>努力地學習。",
+      "mp3": "ymca-A=J2C30_Article01_08"
+    }
+  ],
+  "words": [
+    {
+      "jp": "<ruby>予定<rt>よてい</rt></ruby>",
+      "pos": "名詞",
+      "tw": "預定",
+      "mp3": "ymca-J2C30-W01=予定_預定"
+    },
+    {
+      "jp": "<ruby>関係<rt>かんけい</rt></ruby>",
+      "pos": "名詞",
+      "tw": "關係",
+      "mp3": "ymca-J2C30-W07=関係_關係"
+    },
+    {
+      "jp": "<ruby>人間関係<rt>にんげんかんけい</rt></ruby>",
+      "pos": "名詞",
+      "tw": "人際關係",
+      "mp3": "ymca-J2C30-W08=人間関係_人際關係"
+    },
+    {
+      "jp": "あいさつ",
+      "pos": "名詞/動詞(する)",
+      "tw": "問候、寒暄",
+      "mp3": "ymca-J2C30-W09=あいさつ_問候、寒暄"
+    },
+    {
+      "jp": "<ruby>自分<rt>じぶん</rt></ruby>",
+      "pos": "名詞/代名詞",
+      "tw": "自己",
+      "mp3": "ymca-J2C30-W14=自分_自己"
+    },
+    {
+      "jp": "<ruby>卒業後<rt>そつぎょうご</rt></ruby>",
+      "pos": "名詞",
+      "tw": "畢業後",
+      "mp3": "ymca-J2C30-W16=卒業後_畢業後"
+    },
+    {
+      "jp": "<ruby>告白<rt>こくはく</rt></ruby>する",
+      "pos": "動詞",
+      "tw": "坦白、告白",
+      "mp3": "ymca-J2C30-W18=告白する_坦白、告白"
+    },
+    {
+      "jp": "<ruby>実現<rt>じつげん</rt></ruby>する",
+      "pos": "動詞",
+      "tw": "實現",
+      "mp3": "ymca-J2C30-W24=実現する_實現"
+    },
+        {
+      "jp": "ために",
+      "pos": "接続助詞/名詞",
+      "tw": "為了～，～",
+      "mp3": "ymca-J2C30-W27=ために_為了～，～"
+    }
+  ]
+}

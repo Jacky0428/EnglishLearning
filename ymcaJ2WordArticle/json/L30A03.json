@@ -1,0 +1,120 @@
+{
+  "title": {
+    "jp": "<ruby>大切<rt>たいせつ</rt></ruby>なもの",
+    "tw": "重要的事物"
+  },
+  "articleSentence": [
+    {
+      "jp": "<ruby>誕生日<rt>たんじょうび</rt></ruby>に<span class=\"newWord\"><ruby>花束<rt>はなたば</rt></ruby></span>をもらいました。<ruby>とても<rt>とても</rt></ruby><ruby>嬉<rt>うれ</rt></ruby>しかったです。",
+      "tw": "生日收到了<span class=\"newWord\">花束</span>。我非常高興。",
+      "mp3": "ymca-A=J2C30_Article03_01"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby></span>で<ruby>遠<rt>とお</rt></ruby>くの<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>るのは<ruby>楽<rt>たの</rt></ruby>しいです。",
+      "tw": "用<span class=\"newWord\">望遠鏡</span>看遠方的景色很快樂。",
+      "mp3": "ymca-A=J2C30_Article03_02"
+    },
+    {
+      "jp": "<span class=\"newWord\"><ruby>健康<rt>けんこう</rt></ruby></span>のために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しています。",
+      "tw": "為了<span class=\"newWord\">健康</span>，我每天都運動。",
+      "mp3": "ymca-A=J2C30_Article03_03"
+    },
+    {
+      "jp": "<ruby>学校<rt>がっこう</rt></ruby>の<span class=\"newWord\"><ruby>標語<rt>ひょうご</rt></ruby></span>は「<ruby>努力<rt>どりょく</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>報<rt>むく</rt></ruby>われる」です。",
+      "tw": "學校的<span class=\"newWord\">標語</span>是「努力一定會有回報」。",
+      "mp3": "ymca-A=J2C30_Article03_04"
+    },
+    {
+      "jp": "<ruby>将来<rt>しょうらい</rt></ruby>は<span class=\"newWord\"><ruby>海外<rt>かいがい</rt></ruby></span>で<ruby>暮<rt>く</rt></ruby>らしたいと<ruby>思<rt>おも</rt></ruby>っています。",
+      "tw": "將來我想在<span class=\"newWord\">海外</span>生活。",
+      "mp3": "ymca-A=J2C30_Article03_05"
+    },
+    {
+      "jp": "<ruby>お金<rt>おかね</rt></ruby>を<span class=\"newWord\"><ruby>貯<rt>た</rt></ruby>める</span>のは<ruby>大変<rt>たいへん</rt></ruby>ですが、<ruby>頑張<rt>がんば</rt></ruby>っています。",
+      "tw": "<span class=\"newWord\">儲蓄</span>很辛苦，但我會努力。",
+      "mp3": "ymca-A=J2C30_Article03_06"
+    },
+    {
+      "jp": "<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>は、スープを<span class=\"newWord\"><ruby>温<rt>あたた</rt></ruby>める</span>と<ruby>体<rt>からだ</rt></ruby>が<ruby>温<rt>あたた</rt></ruby>まります。",
+      "tw": "冷冷的日子裡，把湯<span class=\"newWord\">加熱</span>身體就會暖和起來。",
+      "mp3": "ymca-A=J2C30_Article03_07"
+    },
+    {
+      "jp": "<ruby>法律<rt>ほうりつ</rt></ruby>を<span class=\"newWord\"><ruby>守<rt>まも</rt></ruby>る</span>ことは<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "tw": "<span class=\"newWord\">遵守</span>法律是很重要的。",
+      "mp3": "ymca-A=J2C30_Article03_08"
+    },
+    {
+      "jp": "いつか、<span class=\"newWord\"><ruby>億<rt>おく</rt></ruby></span><ruby>万長者<rt>まんちょうじゃ</rt></ruby>になりたいです。",
+      "tw": "我總有一天想變成<span class=\"newWord\">億</span>萬富翁。",
+      "mp3": "ymca-A=J2C30_Article03_09"
+    },
+    {
+      "jp": "<span class=\"newWord\">もっと</span><ruby>日本語<rt>にほんご</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>になりたいです。",
+      "tw": "我想變得<span class=\"newWord\">更加</span>擅長日語。",
+      "mp3": "ymca-A=J2C30_Article03_10"
+    }
+  ],
+  "words": [
+    {
+      "jp": "<ruby>花束<rt>はなたば</rt></ruby>",
+      "pos": "名詞",
+      "tw": "花束",
+      "mp3": "ymca-J2C30-W04=花束_花束"
+    },
+    {
+      "jp": "<ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>",
+      "pos": "名詞",
+      "tw": "望遠鏡",
+      "mp3": "ymca-J2C30-W05=望遠鏡_望遠鏡"
+    },
+    {
+      "jp": "<ruby>健康<rt>けんこう</rt></ruby>",
+      "pos": "名詞",
+      "tw": "健康",
+      "mp3": "ymca-J2C30-W06=健康_健康"
+    },
+    {
+      "jp": "<ruby>標語<rt>ひょうご</rt></ruby>",
+      "pos": "名詞",
+      "tw": "標語、口號",
+      "mp3": "ymca-J2C30-W13=標語_標語、口號"
+    },
+    {
+      "jp": "<ruby>海外<rt>かいがい</rt></ruby>",
+      "pos": "名詞",
+      "tw": "海外",
+      "mp3": "ymca-J2C30-W10=海外_海外"
+    },
+    {
+      "jp": "<ruby>貯<rt>た</rt></ruby>める",
+      "pos": "動詞",
+      "tw": "儲存、積蓄",
+      "mp3": "ymca-J2C30-W17=貯める_儲存、積蓄"
+    },
+    {
+      "jp": "<ruby>温<rt>あたた</rt></ruby>める",
+      "pos": "動詞",
+      "tw": "加熱(菜、飯等)",
+      "mp3": "ymca-J2C30-W22=温める_加熱(菜、飯等)"
+    },
+    {
+      "jp": "<ruby>守<rt>まも</rt></ruby>る",
+      "pos": "動詞",
+      "tw": "遵守、保護",
+      "mp3": "ymca-J2C30-W23=守る_遵守、保護"
+    },
+    {
+      "jp": "<ruby>億<rt>おく</rt></ruby>",
+      "pos": "名詞",
+      "tw": "億",
+      "mp3": "ymca-J2C30-W25=億_億"
+    },
+    {
+      "jp": "もっと",
+      "pos": "副詞",
+      "tw": "更、更加",
+      "mp3": "ymca-J2C30-W26=もっと_更、更加"
+    }
+  ]
+}
